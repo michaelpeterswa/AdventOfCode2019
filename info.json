@@ -1,0 +1,13 @@
+{
+    "project": [
+        {
+            "author": "Michael Peters",
+            "projectName": "AdventOfCode2019",
+            "version": "0.0.1",
+            "description": "This is my repository for the Advent of Code 2019",
+            "longDescription": "This repository holds my solutions for the Advent of Code 2019 contest",
+            "githubLink": "https://github.com/michaelpeterswa/AdventOfCode2019",
+            "date": "12.04.2019"
+        }
+    ]
+}
